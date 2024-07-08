@@ -1,2 +1,11 @@
-# ATM-Software-Project
-A simple and secure ATM software application for simulating banking operations. Features include account statements, balance inquiry, cash withdrawal, lodgments, and pin_changing. Built with user-friendly interfaces and robust security measures.
+ATM SIMULATOR IN PYTHON
+
+Username: user2
+
+Pin code: 2222
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+THANK YOU FOR DOWNLOADING :) 
